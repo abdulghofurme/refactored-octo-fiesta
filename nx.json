@@ -1,7 +1,7 @@
 {
   "extends": "nx/presets/npm.json",
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
-  "npmScope": "nxcore-blog",
+  "npmScope": "nxcore101",
   "affected": {
     "defaultBase": "main"
   },
